@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/diki-haryadi/protobuf-template
+breaking:
+  use:
+    - FILE
+lint:
+  use:
+    - DEFAULT
